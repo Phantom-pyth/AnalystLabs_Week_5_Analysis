@@ -1,6 +1,6 @@
-# 🚀 Advanced Machine Learning — House Price Prediction Model Comparison
+#  Advanced Machine Learning  House Price Prediction Model Comparison
 
-> Week 5 of the AnalystLab Africa Data Science Internship (Batch B) — comparing baseline, tree-based, and ensemble regression models with hyperparameter tuning on the Housing Prices dataset.
+> Week 5 of the AnalystLab Africa Data Science Internship (Batch B)  comparing baseline, tree-based, and ensemble regression models with hyperparameter tuning on the Housing Prices dataset.
 
 ---
 
@@ -17,10 +17,7 @@ week5-advanced-ml/
 │
 ├── Housing_Cleaned.csv                          # Cleaned dataset (from Week 1)
 ├── Week5_Advanced_ML.ipynb                      # Full notebook: all 6 steps
-├── Week5_Performance_Comparison_Report.docx     # Performance comparison report
-├── w5_fig1_model_comparison.png                 # Model comparison charts
-├── w5_fig2_feature_importance.png               # Feature importance across models
-├── w5_fig3_tuning_comparison.png                # Before vs after hyperparameter tuning
+├── Performance_Comparison_Report.docx     # Performance comparison report
 └── README.md                                    # This file
 ```
 
