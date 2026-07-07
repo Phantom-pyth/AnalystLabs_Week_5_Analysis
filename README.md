@@ -6,7 +6,7 @@
 
 ## 📋 Project Overview
 
-This project builds and compares six regression models — a Linear Regression baseline, Decision Tree, Random Forest, Gradient Boosting, and tuned versions of both ensemble models using GridSearchCV. The goal is to identify the best-performing model and, more importantly, to understand why certain models outperform others — including an honest finding that hyperparameter tuning did not always improve results.
+This project builds and compares six regression models a Linear Regression baseline, Decision Tree, Random Forest, Gradient Boosting, and tuned versions of both ensemble models using GridSearchCV. The goal is to identify the best-performing model and, more importantly, to understand why certain models outperform others including an honest finding that hyperparameter tuning did not always improve results.
 
 ---
 
@@ -51,7 +51,7 @@ Improve predictive performance using advanced machine learning algorithms and op
 ### Step 1  Data Preparation
 - Loaded `Housing_Cleaned.csv`, verified zero missing values and zero duplicates
 - Confirmed all categorical columns were encoded during Week 1
-- Applied `StandardScaler` for Linear Regression only — tree-based models used unscaled features
+- Applied `StandardScaler` for Linear Regression only tree-based models used unscaled features
 
 ### Step 2  Baseline Model
 - Trained **Linear Regression** as the reference point for all comparisons
