@@ -13,7 +13,7 @@ This project builds and compares six regression models — a Linear Regression b
 ## 📁 Repository Structure
 
 ```
-week5-advanced-ml/
+AnalystLabs_Week_5_Analysis/
 │
 ├── Housing_Cleaned.csv                          # Cleaned dataset (from Week 1)
 ├── Week5_Advanced_ML.ipynb                      # Full notebook: all 6 steps
